@@ -1,0 +1,9 @@
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+Build/
+*.moved-aside
+.DS_Store
+Alpino-Black.otf
