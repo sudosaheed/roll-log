@@ -6,8 +6,7 @@
 A film photography companion app built in SwiftUI to log camera settings/notes for every frame from a roll of 35mm film you shoot.
 
 
-
-**Roll Log** is my first SwiftUI application, built as a self-directed project to support my personal film photography workflow while taking my first steps into iOS development. I started with no prior experience in Swift and used AI as a development assistant to help me learn the language, understand Apple's frameworks, and debug issues as I progressed. The app's concept, design, feature decisions, testing, and iteration were all driven by me, making it both a practical tool for my own photography and a hands-on learning project.
+**Roll Log** is my first SwiftUI application, built as a self directed project to support my film photography workflow while learning iOS development. The app was designed to help photographers log camera settings and notes for every frame of a roll of 35mm film. Building it gave me hands on experience with Swift, SwiftUI, PhotosUI, data persistence using Codable, and application architecture while solving a real world problem that I personally faced.
 
 
 
@@ -27,7 +26,7 @@ A film photography companion app built in SwiftUI to log camera settings/notes f
 
 ## Built with
 
-SwiftUI, PhotosUI, Codable/JSON persistence/Figma
+SwiftUI, PhotosUI, Figma, Codable/JSON persistence/
 
 
 
